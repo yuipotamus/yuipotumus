@@ -1,6 +1,6 @@
 ---
 title: 最初のポスト
-subtitle: あああ
+subtitle: あああい
 date: 2022-12-31T06:06:37.173Z
 draft: false
 featured: false
@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-a﻿aaあああas
+a﻿aaあああああああああい
